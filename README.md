@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 [](Todo-App_Demo.gif)
-=======
-[DEMO](Todo-App_Demo.gif)
->>>>>>> be06c93402a5382f8aefda3477f2be60dd5e3423
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
